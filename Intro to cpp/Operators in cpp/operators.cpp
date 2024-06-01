@@ -12,6 +12,8 @@ else{
     cout<<"you are little kid"<<endl;
 }
 
+// logical operators in cpp
+
 
 
 
