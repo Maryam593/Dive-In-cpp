@@ -17,7 +17,7 @@ int main(){
     int multiply = r*r;
     float result = pi * multiply; 
     cout<<"the area of circle is " <<result<<endl;
-    
+
     //boolean Data type
     bool c = true;
     cout<<"the value of c is "<<c<<endl;
